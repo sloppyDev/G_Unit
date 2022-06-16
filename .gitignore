@@ -1,0 +1,6 @@
+*.exe
+.vs/*
+Debug/*
+x64/*
+GUnit/Debug/*
+GUnit/x64/*
